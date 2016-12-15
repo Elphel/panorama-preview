@@ -14,6 +14,10 @@ preview panoramas for Eyesis4Pi 393
 * http://localhost/panorama_preview/
 * Select "somedir" from the Choose Date dropdown list
 
+## differences from the older version
+* jp4s are converted with javascript
+* switched maps to leaflet.js and OpenStreetMap tiles
+
 ## older version (for Eyesis4Pi based on 10353s)
 [sourceforge.net][1]
 [1]:https://sourceforge.net/p/elphel/panorama_preview/ci/master/tree/
