@@ -12,7 +12,7 @@ preview panoramas for Eyesis4Pi 393
 
 ## use
 * http://localhost/panorama_preview/
-* Select "somedir" from the Choose Data dropdown list
+* Select "somedir" from the Choose Date dropdown list
 
 ## older version (for Eyesis4Pi based on 10353s)
 [sourceforge.net][1]
